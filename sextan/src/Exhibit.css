@@ -1,6 +1,8 @@
 .Exhibit {
-    float: left;
+    float: center;
+    width: 50%;
     margin: 0.5vw;
+    margin-left: 25%;
     padding: 0vw 2vw 0vw 2vw;
     text-align: center;
     color: #002933;
